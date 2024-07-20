@@ -185,8 +185,4 @@ Project deployment involves the process of moving a project from development to 
    - Perform thorough testing in a staging environment that mirrors the production environment.
    - Conduct final acceptance testing to ensure everything works as expected.
 
-77. *Monitoring and Logging:*
-   - Set up monitoring tools to track the performance and health of the application.
-   - Implement logging to capture and analyze application logs.
-
 At the project's culmination, we successfully deployed the IPL data analysis project using GitHub and Streamlit Cloud. The deployment made the project accessible online, allowing users to interact with the data analysis and visualizations in real time. We pushed the project code to a repository using GitHub for version control and collaboration. Streamlit Cloud provided a seamless platform for hosting and running the project, enabling easy access to the IPL data analysis web application. This deployment marks the culmination of extensive effort and signifies the project’s transition from development to a publicly accessible resource for IPL enthusiasts.
