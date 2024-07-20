@@ -11,6 +11,39 @@ The IPL dataset contains lots of information about different seasons, teams, pla
 Problem-Statement - Dream 11 wants to launch a Dream Cricket League in India. This is a league for players who have played in the IPL season 9 or earlier. In this league, there will be 5 teams and each team consists of 5 batsmen, 5 bowlers, and 1 wicketkeeper. 
 
 Here we have 20 tables of ball-by-ball data of all the IPL cricket matches till season 9 till 2016. 
+Tables - 
+ball_by_ball
+Batsman_Scored
+Batting_style
+Bowling_style
+city
+country
+extra_runs
+extra_type
+match
+out_type
+outcome
+player
+player_match
+role
+season
+team
+toss_decision
+venue
+wicket_taken
+win_by
+
+In order to create 5 New Teams according to the requirement, we added some more filtered Data in the form of tables below.
+Tables -
+Highest wicket takers
+most four
+most sixes
+team1
+team2
+team3
+team4
+top25_batters
+top5_wicket-keepers
 
 Our job as a Data Analyst was to create the five teams based on the data. Each team consists of equal potential players.
 
