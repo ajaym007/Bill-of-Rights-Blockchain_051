@@ -3,7 +3,7 @@
 Cricket, often dubbed as a religion in some parts of the world, has evolved beyond being just a sport into a global phenomenon. Within this vast cricketing landscape, the Indian Premier League (IPL) stands out as a unique spectacle, blending athleticism, entertainment, and high-stakes competition. In this blog, we embark on a journey of Exploratory Data Analysis (EDA) on the IPL dataset to uncover insights, patterns, and stories hidden within the numbers. 
  
 We,re thrilled to share the successful completion of a comprehensive data analytics project where we leveraged Power BI and MySQL to analyze and visualize cricket data. The project involved working with twenty CSV files: Batting_summary, Bowling_summary, Match_summary, and Players. Here, we’ll delve into the process and share some key insights derived from the data.
- 
+  
 ### Understanding the IPL Dataset:
 
 The IPL dataset contains lots of information about different seasons, teams, players, matches, and venues. It’s like a big treasure chest waiting to be explored. With Exploratory Data Analysis (EDA), we want to dig into this data to create 5 Teams  learn more about the Data and make Analysis.
